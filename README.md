@@ -1,5 +1,8 @@
 # webcopy
 
+[![pypi-version]][pypi]
+[![python_versions]][python]
+
 ## Installation
 
 `pip install webcopy`

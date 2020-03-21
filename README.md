@@ -2,8 +2,8 @@
 
 [![PyPI](https://img.shields.io/pypi/v/webcopy)](https://pypi.org/project/webcopy/)
 [![PyPI - License](https://img.shields.io/pypi/l/webcopy)](https://github.com/dzxs/webcopy/blob/master/LICENSE)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/webcopy)
-![PyPI - Downloads](https://img.shields.io/pypi/dd/webcopy)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/webcopy)](#webcopy)
+[![PyPI - Downloads](https://img.shields.io/pypi/dd/webcopy)](#webcopy)
 
 ## Installation
 
